@@ -1,0 +1,18 @@
+Minimum qualifications:
+Bachelor's degree in Engineering, Analytics, or equivalent practical experience.
+8 years of experience in business intelligence or data analytics.
+Experience in SQL and data visualization.
+Experience collaborating across multiple teams.
+Preferred qualifications:
+Experience with data warehousing and data modeling concepts.
+Experience with big data technologies (e.g., Hadoop, Spark).
+Familiarity with Google Cloud Platform (GCP) and related tools.
+About The Job
+In this role, you will transform raw data into actionable insights that drive business decisions across Google. You will collaborate with various teams to identify key metrics, analyze data, build robust data models, and develop data-driven solutions that contribute to the success of our projects.
+
+Responsibilities
+Design and implement automated and standardized analysis tools, empowering users to uncover business opportunities and make informed decisions.
+Examine and validate data integrity throughout the collection process, performing data profiling to identify and comprehend data anomalies.
+Strategize and execute prioritized project tasks, selecting the most effective approaches to achieve project goals.
+Identify opportunities to enhance established solutions by recommending creative methods and tools.
+Translate complex data and analyses into readily digestible formats, enabling supported teams to accurately assess the performance of key business areas, products, and processes.

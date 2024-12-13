@@ -1,0 +1,17 @@
+Requirements:
+ Bachelor's or Master's degree in a quantitative field (CS, machine learning, mathematics, statistics) or equivalent experience.
+Academic excellence with a minimum of 80% in 10th and 12th grades and a First Class at the graduate/post-graduate degree.
+4 to 5 years of extensive experience as a Data Scientist with expertise in building, deploying and operationalizing ML models.
+Excellent programming skills in Python. Strong working knowledge of Pythons numerical, data analysis or popular ML packages such as NumPy, Pandas, Scikit-learn, Jupyter, TensorFlow etc.
+Key Data Science Skills:
+Expertise in Natural Language Processing (NLP) and BERT/BERT-like transformer models.
+ Understanding of foundational concepts behind LLM and Generative AI.
+ Expertise in ML/LLM models development, deployment and operationalization.
+Proficiency in MLOps processes and tools for deployment, scaling and monitoring of ML/LLM models.
+ Knowledge of ML lifecycle management tools such as MLflow, Seldon, or Kubeflow.
+Strong understanding of containerization and orchestration technologies including Docker and Kubernetes.
+Knowledge of GPU computing, GPU acceleration and frameworks for parallel executions is a big plus.
+Knowledge of best practices for logging, monitoring, alerting and testing of production ML workloads.
+Experience with ML model governance, ethics, privacy and security considerations.
+Excellent communication and presentation skills.
+Experience with cloud-based AI platforms and services such as Azure, GCP is preferred

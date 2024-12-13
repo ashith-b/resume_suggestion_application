@@ -1,0 +1,23 @@
+Skills/ Qualifications Required: 
+Relevant experience in ML Engineering/ ML Ops role with an end-to-end understanding of ML based project’s solution design & architecture, development, implementation & deployment
+Should fulfill all the standard MLOps level 2 requirements for CI/CD + CT pipeline automation
+Strong grasp & hands on experience with production ready scalable code using SQL (advance) and Python
+Hands-on experience in working on any of the of cloud stacks: AWS/ Azure/ GCP
+Good communication skills
+Can work hands-on independently.
+Bachelor’s degree from Tier I/II colleges preferred
+3+ years of work experience with MLOps
+2+ years of work experience with Continuous Integration and Continuous Delivery (CI/CD)
+Job Responsibilities
+Actively own & manage client deliverables.
+Design solution architectures and pipelines for ML applications.
+Create ML prototypes, design ML systems, develop automated ML application pipelines (across data collection, processing, cleaning, transformation etc. aspects) under the constraints of scalability, correctness, and maintainability.
+Implement model evaluation and model + data validation tools/ techniques such as schema validation, evaluation metrics etc.
+Develop and deploy fCI/CD based automated ML application pipelines (collection, processing, cleaning, transformation etc.) along with the CT component for continuous feedback loop for re-training.
+Strong skills in Feature store setup, Pipeline Integration, Automated triggering, Model Continuous Delivery, Model Serving (via APIs) & Model Monitoring 
+Responsible for productionizing and making the models available as APIs / micro services.
+Promote a practice of unifying system development (Dev) and system operations (Ops)
+Ensure output’s thorough quality check & provide analytics driven insights and next steps.
+To perform statistical analysis and fine-tune models using test results.
+Understand data and different platforms used by the client.
+Actively contribute towards problem solving & mentor juniors in the team

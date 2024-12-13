@@ -1,0 +1,19 @@
+Primary/Key Responsibilities
+Problem Solving with Data-Driven Solutions: Utilize data analysis techniques to identify and address business challenges effectively, leveraging insights derived from data to propose and implement strategic solutions.
+Data Management and Quality Assurance: Conduct data querying, cleansing, manipulation, and other tasks to ensure timely and high-quality delivery of data, maintaining data integrity and accuracy throughout the analytical process.
+Presentation and Visualization Development: Develop presentations, visualizations, and metrics to address stakeholders' inquiries, providing clear and insightful representations of data-driven findings to support informed decision-making.
+Continuous Learning and Technological Advancement: Stay abreast of the latest tools and technologies in data analysis, continuously learning and improving skills to remain up-to-date with industry advancements and enhance analytical capabilities.
+Collaborative Cross-Functional Teamwork: Engage in cross-functional collaboration within multidisciplinary teams, working closely with technical and business functional units to ensure alignment of objectives, foster effective communication, and drive collective success.
+Business Acumen and Strategic Contribution: Proactively engage in comprehending business operations, identifying pertinent data sources, and leveraging insights to propose innovative, data-driven solutions that address key business challenges and drive strategic initiatives.
+Hybrid Schedule: 3 days remote / 2 days in office
+30-day notification period preferred 
+
+Minimum Qualifications
+Bachelors or Above in Statistics/Mathematics, Engineering, Or Business Or any other equivalent degree.
+Minimum 2 years of hands-on experience with SQL for data querying and management..
+Minimum 2 years of experience with R or Python for data analysis and automation.
+Minimum 2 years of experience with Tableau or similar tools for creating impactful visualizations.
+Minimum 4 years of experience in data analytics within commercial settings, spanning domains like Marketing, Operations, or Product Management.
+Strong knowledge of basic and fundamental statistics.
+Strong problem solving skills.
+Strong communication skills.

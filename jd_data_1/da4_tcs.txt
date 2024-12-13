@@ -1,0 +1,22 @@
+Experience Range: 10+ Years
+Must-Have:
+Experience in Data intensive activities (Data Modeling, ER Diagram, ETL, Data mapping, Data Governance and security)
+Experience in End-to-End implementation of large Data Lake or Data Warehouse solution on Azure 
+Experience in Azure data lake and Azure Synapse
+Concepts on MS Fabrics
+Strong knowledge on Data Governance using industry leading tools.
+Knowledge on MS Purview 
+Hands on experience with ETL tools (ADF), Databricks and Spark Pools
+Strong knowledge and experience in data modeling 
+Strong knowledge on Data Security / Encryption/Monitoring 
+Knowledge on Azure DevOps in Data Lake Solution deployments
+Analytical and problem-solving skills with a high degree of initiative and flexibility to be available over extended hours.
+Ability to communicate with Business SME.
+Ability to create Solution Architecture documents using Design Patterns –Data Models.
+Experienced with Onsite – Offshore Delivery Model.
+Technical background ideally within Managed Services and IT outsourcing industry.
+Certification on Data Platform Solutions, Azure 
+Good to Have:
+Experience on Cloud Tool & Technology viz. ADO, ServiceNow, Azure Monitoring, Performance Management, Analytics etc.
+Understanding of Agile Process.
+Maintains a broad and current knowledge of the industry on Cloud Platforms

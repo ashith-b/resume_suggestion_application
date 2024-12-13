@@ -1,0 +1,30 @@
+About the job
+A Business Intelligence Analyst might gather, clean, and analyze data like revenue, sales, market information, or customer engagement metrics of a business. BI analysts can also be asked to program tools and data models to help visualize or monitor data.
+Experience: 3+ Years
+Technical:
+Development of high-quality database solutions
+Strong in SQL and Good knowledge in PL/SQL.
+Should be knowledgeable in SQL Performance Tuning, Joins, UNION, etc., and writing optimized SQL queries.
+Develop queries & procedures, functions, and triggers, create custom reports 
+Provide scheduled management reporting
+Must have used the OBIEE platform at least for a year in the last two years
+Teamwork:
+Must promote a collaborative environment within and across IT teams.
+Project Management:
+Must be organized, self-sufficient and have the ability to manage multiple initiatives simultaneously. Must have the ability to coordinate with other teams and vendors to ensure that project workflow is effectively communicated.
+Responsibilities: 
+Maintaining data analytics platforms
+Evaluating and improving existing BI systems.
+Conducting troubleshooting on BI models.
+Generating and delivering quality reports to all departments and performing quality assurance checks on reports.
+Creating and managing tables, views, indexes, DB-link, and other database objects in the Oracle database.
+Identifying installation solutions for new databases.
+Publishing and/or presenting design reports
+Should be able to research required data.
+Provides mentoring and training to other team members to aid in their individual development to help improve overall team performance.
+Analyzing business requirements to design, develop and update dashboards, reports, and data extracts. 
+Review and interpret ongoing business report requirements and coordinate with business teams.
+Job Requirements:
+Minimum 3 years of experience needed in core SQL development
+PL-SQL programming & Microsoft SQL Server concepts
+HTML and JavaScript

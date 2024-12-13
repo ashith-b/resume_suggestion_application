@@ -1,0 +1,7 @@
+Technical/Functional Skills
+Key POC for managing demand forecast of an entire commodity, handling escalations and providing solutions
+Using Python, SQL and Excel for data analysis
+Deploying Tableau dashboards to visualize complex data insights and identify trends and patterns
+Coordinating with multiple stakeholders including global supply managers, material program managers, vendors, module forecast DRIs, application developers
+Managing a suite of tools to generate forecasts and perform supply demand analysis to facilitate supply planning
+Managing User Acceptance Testing and ensuring smooth transition and successful rollout of product releases.

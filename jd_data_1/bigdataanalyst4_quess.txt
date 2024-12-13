@@ -1,0 +1,9 @@
+Must have skills:
+ Knowledge of Spark, Scala and conversant with SQL
+ Reverse engineer the SQL queries, Scala code to understand functionality
+ Capable of identifying, analysing and interpret patterns and trends in complex data sets
+ Has worked on creating database design, data models & techniques for data mining.
+Good To Have Skills
+ Adept at using data processing platforms like Hadoop and CouchDB
+ Performing analysis to assess quality and meaning of data
+ Preparing reports for the management stating trends, patterns, and predictions using relevant data

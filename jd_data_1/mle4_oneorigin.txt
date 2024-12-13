@@ -1,0 +1,24 @@
+About the Role: 
+We are looking for a highly skilled Senior Machine Learning Engineer with expertise in Large Language Models (LLMs) and Generative AI, with a preferred focus on intelligent document processing. The ideal candidate will have 6-8 years of experience in machine learning research and development, with a strong background in LLMs, generative modeling, and intelligent document processing techniques.
+Key Responsibilities:
+ Research and Development: 
+Lead research efforts in the development and optimization of Large Language Models (LLMs) and Generative AI algorithms for intelligent document processing applications. 
+Stay updated with the latest advancements in LLMs, generative modeling techniques, and intelligent document processing technologies. Algorithm Development: 
+Design and implement advanced algorithms for training and fine-tuning LLMs and generative AI models tailored for intelligent document processing tasks. 
+Develop innovative solutions for document understanding, information extraction, and content generation using state-of-the-art techniques. Model Training and Optimization: 
+Develop scalable and efficient training pipelines for LLMs and generative AI models optimized for document processing tasks. 
+Optimize model performance in terms of accuracy, efficiency, and scalability, leveraging techniques such as hyperparameter tuning and model compression. Intelligent Document Processing: © OneOrigin 2024 1 
+Apply machine learning techniques to automate document processing tasks such as text extraction, entity recognition, document classification, and semantic analysis.
+Develop and deploy end-to-end document processing solutions integrating LLMs and generative AI models with intelligent document processing workflows. Collaboration and Leadership:
+Collaborate closely with cross-functional teams including software engineers and product managers to integrate machine learning models into intelligent document processing solutions. 
+Provide technical leadership and mentorship to junior members of the machine learning team, fostering a culture of innovation and excellence.
+Required Skills and Qualifications: 
+Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, Mathematics, or related field. 
+8-12 years of experience in machine learning research and development, with a focus on LLMs, generative AI, and intelligent document processing. 
+Expertise in deep learning frameworks
+Proficiency in programming languages such as Python, with experience in software development best practices and version control systems. 
+Strong understanding of machine learning fundamentals, including optimization algorithms, and model evaluation techniques
+Experience with intelligent document processing techniques such as OCR (Optical Character Recognition), NLP (Natural Language Processing), and document understanding. Preferred Skills
+Familiarity with document processing frameworks and libraries such as Tesseract, 
+Experience with cloud computing platforms (e.g., AWS, Azure, GCP) and distributed computing frameworks (e.g., Apache Spark, Hadoop)
+Strong analytical and problem-solving skills, with a passion for pushing the boundaries of machine learning and artificial intelligence in document processing applications. 

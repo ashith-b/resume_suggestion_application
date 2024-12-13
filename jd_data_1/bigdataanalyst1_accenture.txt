@@ -1,0 +1,18 @@
+Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Interactive, Technology and Operations services — all powered by the world’s largest network of Advanced Technology and Intelligent Operations centers. Our 674,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities.
+
+The work:
+You’ll work with key stakeholders of some of the most innovative and valued companies on the planet to design unique and exciting solutions.
+You’ll design, test, implement and evolve data handling solutions on premise and in the cloud, leveraging famous tech or niche tech.
+You’ll implement data pipelines that integrate data from various sources, ranging from data manually provided via excel to integration with a complex system or an open-source system.
+You’ll manage governance and scheduling, monitoring data quality and data security throughout project lifecycles.
+
+Here’s what you need: 
+
+Experience in programming languages including Spark, Python and Scala.
+Hands-on experience in at least one data platform, such as AWS, Google Cloud, Azure, Cloudera.
+Knowledge on the different ways data can be processed and the principles of data processing (streaming and batch data processing, workflow orchestration).
+
+Bonus points if: 
+
+You have solid knowledge of different Data Modelling techniques.
+You have solid knowledge of niche technologies (NoSQL).

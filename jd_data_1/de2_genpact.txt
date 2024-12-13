@@ -1,0 +1,30 @@
+Inviting applications for the role of Principal Consultant-Senior Data Engineer
+Include optimizing data pipelines, ensuring data integrity and consistency, enhancing system resiliency where applicable, maintaining and improving data security, proactive alerting, and monitoring for data pipelines, and automating repetitive data-oriented tasks.
+Responsibilities
+Automate data tasks on GCP.
+Work with data domain owners, data scientists and other stakeholders to that data is consumed effectively on GCP.
+Design, build, secure and maintain data infrastructure, including data pipelines, databases, data warehouses, and data processing platforms on GCP.
+Measure and monitor the quality of data on GCP data platforms.
+Implement robust monitoring and alerting systems to proactively identify and resolve issues in data systems. Respond to incidents promptly to minimize downtime and data loss.
+Develop automation scripts and tools to streamline data operations and make them scalable to ensure accommodate growing data volumes and user traffic.
+Optimize data systems to ensure efficient data processing, reduce latency, and improve overall system performance.
+Collaborate with data and infrastructure teams to forecast data growth and plan for future capacity requirements.
+Ensure data security and compliance with data protection regulations. Implement best practices for data access controls and encryption.
+Collaborate with data engineers, data scientists, and software engineers to understand data requirements, troubleshoot issues, and support data-driven initiatives.
+Continuously assess and improve data infrastructure and data processes to enhance reliability, efficiency, and performance.
+Maintain clear and up-to-date documentation related to data systems, configurations, and standard operating procedures.
+Minimum Qualifications / Skills
+Bachelor’s or master’s degree in computer science, Software Engineering, Data Science or related field, or equivalent practical experience
+Preferred Qualifications/ Skills
+Proficiency in data technologies, such as relational databases, data warehousing, big data platforms (e.g., Hadoop, Spark), data streaming (e.g., Kafka), and cloud services (e.g., AWS, GCP, Azure).
+Strong programming skills in languages like Python (numpy, pandas, pyspark), Java (Core Java, Spark with Java, functional interface, lambda, java collections), or Scala, with experience in automation and scripting.
+Experience with containerization and orchestration tools like Docker and Kubernetes is a plus.
+Experience with data governance (data plex), data security, and compliance best practices on GCP.
+Solid understanding of software development methodologies and best practices, including version control (e.g., Git) and CI/CD pipelines.
+Strong background in cloud computing and data-Intensive applications and services, with a focus on Google Cloud Platform.
+Experience with data quality assurance and testing on GCP.
+Proficiency with GCP data services (BigQuery; Dataflow; Data Fusion; Dataproc; Cloud Composer; Pub/Sub; Google Cloud Storage).
+Strong understanding of logging and monitoring using tools such as Cloud Logging, ELK Stack, AppDynamics, New Relic, Splunk, etc.
+Knowledge of AI and ML tools is a plus.
+Google Associate Cloud Engineer or Data Engineer certification is a plus.
+Experience in data engineering or data science on GCP.

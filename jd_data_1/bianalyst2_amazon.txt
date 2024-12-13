@@ -1,0 +1,24 @@
+Description
+
+We are looking for an eager learner, and team player as a Business Analyst in the Social commerce team. The Business Intelligence team in GlowRoad(a unit of Amazon) works closely with all departments for fulfilling data analysis and business operation’s related data. This is a full stack team that works at all stages in data pipelines, warehousing, reporting, business analysis, machine learning, and business optimization. The team members have immense scope of learning in terms of technology as well as business due to its visibility to cross functional data, full stack BI technologies, and rapidly growing services.
+
+GlowRoad is a social commerce company that sells products to customers at wholesale prices and helps them resell on Facebook and WhatsApp. It also provides them with all reselling services like logistics network, ecommerce website, and the ability to collect cash.
+
+Key job responsibilities
+
+Projects
+Develop analytical models to assess the problems, solutions and impact on business
+Understand a business problem, the available data and identify what statistical techniques can be applied for the solution
+Responsible for giving insights to management for strategic planning
+Reporting
+Own the design, development, automation, and maintenance of ongoing metrics, reports, analyses, dashboards on the key drivers of our business
+Partner with operations/business teams to consult, develop and implement KPIs, automated reporting/process solutions and data infrastructure improvements to meet business
+Enable effective decision making by retrieving and aggregating data from multiple sources and compiling it into a digestible and actionable format
+Prepare and deliver business reviews to the senior management team regarding progress and roadblocks
+Analyze historical and customer segmentation data to identify trends and insights
+Data Management
+Contribute to the architecture, design and implementation of next-generation BI solutions
+Manage AWS resources including EC2, RDS, Redshift, Glue, Lambda etc.
+Managing Data pipelines and warehouses.
+Interface with other technology teams to extract, transform, and load data from a wide variety of data sources
+Continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customers

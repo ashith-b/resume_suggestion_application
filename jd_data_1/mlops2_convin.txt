@@ -1,0 +1,26 @@
+Founded by IIT Delhi Alumni, Convin is a conversation intelligence platform that helps organisations improve sales/collections and elevate customer experience while automating the quality & coaching for reps, and backing it up with super deep business insights for leaders.
+At Convin, we are leveraging AI/ML to achieve these larger business goals while focusing on bringing efficiency and reducing cost.
+
+Who are our clients:
+We are already helping the leaders across Health-tech, Ed-tech, Fintech, E-commerce, and consumer services like Treebo, SOTC, Thomas Cook, Aakash, MediBuddy, PlanetSpark. But as the list is growing at tremendous pace, we are looking for folks who are excited about taking this to the market with us.
+Here’s why you should apply:
+If you love AI, understand SaaS, love selling and looking to join a ship bound to fly- then Convin is the place for you.
+We are a young (pre series A) company, and are hungry to go big. If you are looking to build a team, product with energy, and not too many rules- we are the exact place you are looking for.
+Key Responsibilities:
+Collaborate with cross-functional teams to design, develop, and maintain robust backend systems that power our applications.
+Utilize your proficiency in Python to implement efficient and scalable backend solutions.
+Employ your experience with ChatGPT or similar language models to integrate natural language understanding and generation capabilities into our applications.
+Contribute to the architecture, design, and development of APIs to facilitate smooth communication between frontend, ML, and backend components.
+Work closely with the DevOps team to assist in the deployment, monitoring, and scaling of applications in various cloud environments.
+Collaborate on continuous integration and continuous deployment (CI/CD) pipelines to streamline the software development lifecycle.
+Stay up-to-date with industry trends, emerging technologies, and best practices to drive innovation within the team.
+Requirements:
+Approximately 2 years of professional experience in backend development.
+Strong proficiency in Python, with the ability to write clean, maintainable, and efficient code.
+Familiarity with ChatGPT or similar natural language processing models is highly desirable.
+Basic understanding of DevOps concepts and practices, including deployment, monitoring, and scaling.
+Exposure to various cloud services (e.g., AWS, Azure, Google Cloud) and their offerings.
+A solid foundation in Computer Science, with a degree in Computer Science or related field preferred.
+Excellent problem-solving skills and a proactive attitude towards tackling challenges.
+Strong communication skills and the ability to collaborate effectively within cross-functional teams.
+A keen interest in staying updated with technological advancements and a passion for continuous learning.

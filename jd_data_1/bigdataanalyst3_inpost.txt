@@ -1,0 +1,22 @@
+Role Overview:
+As a Big Data Analyst, you will be at the forefront of analyzing vast volumes of real-time data from diverse systems, including parcel lockers, package lifecycle, transportation, user communication and similar topics relative to InPost Group products. This role spans across Poland and extends to 7 international markets, offering a unique opportunity to impact our global operations significantly.
+Key Responsibilities:
+Analytical Product Development: Lead the creation of analytical products from inception through delivery, utilizing a deep understanding of business needs across multiple markets. Your work will drive strategic decisions and optimize operations globally.
+Real-Time Data Processing: Harness large-scale, real-time data from various sources to generate actionable insights, recommendations, and reports. Your analysis will support continuous improvements in parcel delivery and customer interaction.
+Cross-Functional Collaboration: Work closely with business units to understand their needs, define key performance indicators (KPIs), and establish the necessary data sources and methodologies. Partner with data providers and developers to ensure seamless integration and processing of critical data.
+Data Governance and Documentation: Take charge of data governance, ensuring data integrity and consistency across the board. Your documentation will guide best practices and support data-driven decision-making processes.
+
+Analytical Process:
+Engage with business units to identify KPIs and initiate projects.
+Determine the availability of data in our data lakehouse and identify or define necessary data structures.
+Perform iterative data analysis, including understanding, transforming, and aggregating data to establish KPIs.
+Develop recommendations for data models and collaborate on report building and data visualization.
+Lead the operationalization of data calculations and ensure comprehensive documentation and data governance.
+Collaboration and Technology:
+Translate business requirements into data needs, defining data models and setting standards for data providers.
+Work within Data&AI squads, collaborating with data engineers, data analysts, and data scientists to leverage a wide range of competencies for project needs.
+Utilize the latest technologies, including Azure, Google Cloud, Databricks, pySpark, and Power BI, to analyze data and generate insights.
+Experience: At least 3 years of experience in data analysis, business intelligence, or related areas, preferably with exposure to global or multi-market operations.
+Technical Skills: Proficiency in PySpark, SQL and Python. Familiarity with cloud platforms (Azure, AWS, Google Cloud) and big data technologies. Experience with data visualization tools (e.g., Power BI, Tableau).
+Analytical and Strategic Thinking: Strong ability to analyze large datasets and generate actionable insights. Good business acumen to understand company goals and KPIs.
+Data Governance: Knowledge of data governance principles and practices.

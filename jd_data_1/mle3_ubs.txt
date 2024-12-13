@@ -1,0 +1,21 @@
+Your role
+Are you interested in pursuing your career in Asset Management? Does working in a data driven business excite you? Do you want to be part of the data revolution by performing hands on data analysis and developing ML/DL/Gen AI models to produce working and scalable concepts, along with managing multiple initiatives for cross-functional data analytics needs?
+
+We’re looking for someone to work with a cross-functional team to:
+ Work with teams of data scientists and quant developers to create, deploy, and monitor models in production
+ Work with a team of data engineers to source and transform data, and to create robust, scalable data and model development infrastructure
+ Build components to manage the model lifecycle from feature engineering through deployment, validation and monitoring
+ Work with researchers and product/model owners to help drive product development and innovation
+ Design and solution production quality ML/DL/Gen AI models
+Your team
+You'll be working in the Chief Data Office (CDO) within UBS Global Asset Management. We're responsible for defining data strategy and supporting the management of core data sets used across Asset Management. Our team is structured to encompass several functions, including Data Strategy and Delivery, Data Mastering and Governance, Data Architecture, and Data Analytics. We're based in New York City, Chicago, Zurich, and Pune.
+
+Your expertise
+ Minimum of 5+ years of hands-on experience with data science, ML/DL engineering
+ Experience with machine learning APIs and computational packages (i.e. NumPy, scikit-learn, Pandas)
+ Experience in developing ML, DL and Gen AI models
+ Experience with SQL and NoSQL databases
+ Experience with cloud big data technology (Azure preferred)
+ Understanding of Agile software methodology and modern CI/CD practices
+ Data domain knowledge of market data, security reference data, macroeconomics indicators, equity fundamental data, trades and positions data, risk data is a plus
+ BS in Computer Science, Software Engineering, Statistics, or equivalent

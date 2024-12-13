@@ -1,0 +1,25 @@
+Key Responsibilities:
+Lead end-to-end development and delivery of Machine-Learning applications, emphasizing operations and monitoring.
+Collaborate with multidisciplinary teams to understand business requirements, identify ML workflow requirements, improve processes, and implement new features.
+Perform software engineering tasks: requirements analysis, design, implementation, testing, deployment, code maintenance, etc.
+Develop pipelines for deployment and operation of ML applications, following CI/CD best practices.
+Implement optimization techniques to ensure efficient model inference, reducing computational costs and improving response times.
+Collaborate with Back-End Engineers to ensure the infrastructure supports the demands of the model, especially concerning GPU resources, memory, and storage.
+Contribute to architectural and technical documentation 
+Requirements:
+Degree in a quantitative or engineering field like Computer Science, Physics, Mathematics, Statistics, etc.
+3-5 years of relevant professional experience in end-to-end data projects, from data cleaning to productionizing ML models.
+Several years of Python programming experience and overall strong software development skills
+Demonstrated knowledge of CI/CD pipelines, Jenkins & GitHub actions.
+Solid understanding of machine learning product lifecycle and the commonly associated components (MLOps)
+Understanding of multiple machine learning algorithms and techniques.
+Expertise in ML model deployment (familiar with REST APIs) and monitoring.
+Experience with containerization technologies such as Docker and Kubernetes.
+Solid knowledge of at least one major cloud platform, preferably Azure Cloud.
+Experience coordinating with various technical stakeholders (Engineers, Architects, Data Scientists) to achieve common goals.
+Strong ability to self-organize, take ownership of topics, and drive them to delivery together with team members.
+Fluency in English is required; additional languages are a plus.
+
+Good to Have:
+Insurance knowledge and proficiency in additional languages.
+Experience in newer ML approaches (LLM, computer vision, etc.).

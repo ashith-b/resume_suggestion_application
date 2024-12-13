@@ -1,0 +1,12 @@
+Job Description:
+Experience performing requirements gathering for Data interfaces such as Kafka, Hadoop/Hive, etc.
+Experience in gathering Interface specifications for messages and files and drafting user stories.
+Experience interfacing with project stakeholders in Big Data applications, real-time applications and gathering interface requirements.
+Clarifying requirements for developers and testers.
+5+ years of experience with hands on experience of tracking tools like JIRA, Confluence etc.
+Excellent communication & presentation skills and experienced in working with senior and technical stakeholders.
+Strong understanding of Agile Methodology.
+
+Good to have:
+Experience in AI / ML / NLP
+Exposure to Retail Banking Operations domain.

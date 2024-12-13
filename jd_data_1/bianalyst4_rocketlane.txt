@@ -1,0 +1,34 @@
+About the Role 
+As the first BI hire, your role will be pivotal in consolidating disparate data sources from various tools utilized across sales, marketing, customer success, and product teams. Using connectors tailored to each tool, you'll establish a centralized repository within Snowflake, ensuring seamless data integration. From this unified database, you'll craft insightful dashboards catered to specific team needs and stakeholder interests. Your ownership of this end-to-end process will drive actionable insights and empower informed decision-making across the organization.This is a lean team and a single person role, which would need you to hit the ground running.
+Responsibilities 
+(Phase - 1) Data Engineering & Dashboarding
+Own and maintain DBM & connectors set-up on snowflake platform (Data Warehouse)
+Normalize the tables into readable format for wider teams
+Write manipulation layer with calculated fields and create presentation layer with access control
+Create, design and publish different dashboards for different teams, stakeholders and executive
+Maintain and update the dashboard on weekly, and a monthly basis
+(Phase - 2) Business Analysis and Insights Generation:
+Perform Adhoc analysis on data to derive actionable insights 
+Utilize past trends to forecast sales and other metrics as required. 
+Craft compelling narratives that tie insights to business objectives.
+(Phase - 3) Data Modelling
+Utilize past trends to forecast sales and other metrics as required. 
+Craft compelling narratives that tie insights to business objectives.
+Qualifications
+Must haves/Non Negotiables
+Advanced SQL (not limited to Subqueries, table normalization, etc.)
+Intermediate working knowledge and experience in building dashboards on Tableau or Power BI
+Intermediate working knowledge in excel (not limited to aggregate, lookup functions, pivot table, power 
+Strong analytical and quantitative skills
+Excellent communication skills for effective collaboration with cross-functional teams
+Good to have/what will put you ahead of the curve
+Experience in the SaaS or related fields is a plus
+Working knowledge of python is a plus
+Experience in performance monitoring and analysis
+Ability to synthesize data and extract key insights
+Working experience on Salesforce. Having a Salesforce Admin certification is an advantage.
+Personal Characteristics 
+Detail-oriented and organized, with exceptional prioritization skills
+Strong work ethic, passion, and creativity 
+The ability to work and thrive in a fast-paced, rapidly changing work environment
+A “roll up your sleeves and get things done” attitude, coupled with the ability to consistently give/receive feedback

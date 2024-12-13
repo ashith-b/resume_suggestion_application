@@ -1,0 +1,30 @@
+Description
+
+Amazon is looking for a talented, driven Data Analyst It is a pivotal role that will contribute to the evolution and success of one of the fastest growing businesses in the company.
+
+Amazon Global Trade is an important initiative to grow the Amazon Marketplace Seller Business around the world, with the India team focused on cross-border selling from sellers in India catering to customers abroad and sellers across the globe catering to customers in India. The Global Trade team is looking for a professional who relishes diving deep into data. You will have the exciting opportunity to deliver on a strategy to enable broad use of Amazon Seller Services by small/medium sellers and large enterprises in India.
+
+Working in a dynamic environment, you will be responsible for monitoring key success metrics for sellers, identifying problem areas and business challenges and collaboratively shaping solutions with category and business teams to help sellers grow and optimize on the Amazon platform. The successful candidate has a passion for extracting actionable insights from data. He/she rolls up his/her sleeves, innovates, and quickly becomes a subject matter expert to assess business performance across sellers and market segments. He/she has significant experience working with customers, analyzing data, identifying trends, extracting conclusions, and presenting findings in a simple and clear manner. He/she enjoys problem solving and is proficient using Excel and other tools to analyze large data sets.
+
+Key Responsibilities
+●	 Understand Amazon seller Services products and services and track/report business performance and problem areas using appropriate metrics.
+●	 Work cross functionally with the account management team to fix problems with sellers
+●	 Use Amazon’s tools to problem solve and validate solutions
+●	 Partner to define goals around key operational metrics
+●	 Recommend business actions based on analytical findings. Includes defining new metrics, techniques, and strategies to improve seller performance
+Key job responsibilities
+●	 Understand Amazon seller Services products and services and track/report business performance and problem areas using appropriate metrics.
+●	 Work cross functionally with the program management team to fix problems with sellers
+●	 Use Amazon’s tools to problem solve and validate solutions
+●	 Partner to define goals around key operational metrics
+●	 Recommend business actions based on analytical findings. Includes defining new metrics, techniques, and strategies to improve seller performance
+
+Basic Qualifications
+●	 1+ years of data analytics or automation experience
+●	 Bachelor's degree
+●	 Knowledge of data pipelining and extraction using SQL
+●	 Knowledge of SQL and Excel at a moderate or advanced level
+●	 Experience with data mining tools like SQL, SAS, SPSS, or similar
+
+Preferred Qualifications
+●	Knowledge of SQL/Python/R, scripting, MS Excel, table joins, and aggregate analytical functions

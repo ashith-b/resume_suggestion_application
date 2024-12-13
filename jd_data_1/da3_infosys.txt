@@ -1,0 +1,22 @@
+Job Description
+Proven experience in designing and implementing data solutions on AWS.
+ In-depth knowledge of AWS data services such as S3, Glue, Redshift, Athena, Lambda and Cloud Formation.
+ Proficiency in programming languages such as Python for data processing and automation.
+ Proficiency in SQL and experience in working on different databases.
+ Experience with data warehousing, data modeling, and ETL development.
+ Strong understanding of data security, encryption, and compliance on AWS.
+ Excellent problem-solving and communication skills.
+ AWS certification(s) such as AWS Data Engineer - Associate is a plus.
+ Design, develop, and maintain data pipelines and ETL processes on AWS using services such as S3, Glue, Lambda and Cloud Formation.
+ Implement scalable and efficient data storage solutions on AWS, ensuring data security and compliance.
+ Collaborate with data scientists and analysts to understand data requirements and implement solutions to support analytical processes.
+ Optimize data workflows and processes for performance and cost-efficiency.
+ Troubleshoot and resolve data-related issues, ensuring minimal downtime and high availability.
+ Monitoring existing data pipelines and be part of other support activities.
+ Stay updated with AWS services and best practices and provide recommendations for continuous improvement.
+ Ability to develop value-creating strategies and models that enable clients to innovate, drive growth and increase their business profitability
+ Logical thinking and problem-solving skills along with an ability to collaborate
+ Understanding of the financial processes for various types of projects and the various pricing models available
+ Ability to assess the current processes, identify improvement areas and suggest the technology solutions
+ One or two industry domain knowledge
+ Client Interfacing skills

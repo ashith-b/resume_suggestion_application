@@ -1,0 +1,30 @@
+Job Description:
+
+Data Architect will be part of NAM HUB Global Services within Tools & Data team that process the offer data flow from stage of creation till WEB publication. The data architect is responsible for the creation of publishable data in PIM according to the Schneider Electric offer data governance rules with strong consideration of special requirements of Services offer that could easily localized by country.
+
+Key Responsibilities
+Work with Offer Design to translate business, marketing needs and technical system requirements into data model and develop existing data models for proposed Services Offers using defined Schneider quality standards for WEB publication and data strategy in Product Informational Management (PIM) system to produce clear Services technical datasheet with proposed customer values.
+Perform tasks as required in Product Informational Management (PIM) system to have the Services offer data accurate and complete, corresponding to the latest Guidelines and ensure the proper web publication of Services on related WEB, always ensuring connection between Products and suggested service offers.
+Optimize new and current database systems, collaborating with Global Services Data Office, being an owner and main executor of high-level standards of offer data publication.
+Perform as technical consultant and advisor for the HUB squads, Country PIM champions, troubleshooting when needed PIM related issues.
+Digital Service Experience
+ Define the right offer data digital customer journey.
+ Top cooperation with DCX, Product LOB and PO
+ Web publication
+Web publication / selector
+ Execute EDMS
+ Dedicated support for seamless offer data digital journey
+Taxonomy
+ Ensuring the alignment of PIM dictionary implementation with standards
+Develop product classification and web-based product data sheet.
+Qualifications
+ Education: Bachelor’s degree in Engineering (Electrical or Industrial preferred) or equivalent field
+ Experience in Marketing Offer Development and Customer Journey
+ Electrical products familiarity is preferred but is not mandatory.
+ MS Office skills and strong knowledge of MS Excel are required.
+ Knowledge of PIM (Product Informational management), EDMS (electronic documents management system), CaP (Check a Product), Symphony is preferred, but is not mandatory.
+ Fluent in English
+ Good communication skills both verbal and written, customer-oriented way of work.
+ Ability to learn fast and adapt to changing environment.
+ Self-Driven to work independently while keeping collaborative mindset to work with HUB squads, teams, and global chapters.
+ Remote position but must work United States Time Zones.

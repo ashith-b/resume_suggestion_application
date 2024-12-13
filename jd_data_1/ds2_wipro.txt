@@ -1,0 +1,30 @@
+Job Description
+Contribute to the design and implementation of state-of-the-art AI solutions.
+
+Assist in the development and implementation of AI models and systems, leveraging techniques such as Language Models (LLMs) and generative AI.
+
+Collaborate with stakeholders to identify business opportunities and define AI project goals.
+
+Stay updated with the latest advancements in generative AI techniques, such as LLMs, and evaluate their potential applications in solving enterprise challenges.
+
+Utilize generative AI techniques, such as LLMs, to develop innovative solutions for enterprise industry use cases.
+
+Integrate with relevant APIs and libraries, such as Azure Open AI GPT models and Hugging Face Transformers, to leverage pre-trained models and enhance generative AI capabilities.
+
+Implement and optimize end-to-end pipelines for generative AI projects, ensuring seamless data processing and model deployment.
+
+Utilize vector databases, such as Redis, and NoSQL databases to efficiently handle large-scale generative AI datasets and outputs.
+
+Implement similarity search algorithms and techniques to enable efficient and accurate retrieval of relevant information from generative AI outputs.
+
+Collaborate with domain experts, stakeholders, and clients to understand specific business requirements and tailor generative AI solutions accordingly.
+
+Conduct research and evaluation of advanced AI techniques, including transfer learning, domain adaptation, and model compression, to enhance performance and efficiency.
+
+Establish evaluation metrics and methodologies to assess the quality, coherence, and relevance of generative AI outputs for enterprise industry use cases.
+
+Ensure compliance with data privacy, security, and ethical considerations in AI applications.
+
+Leverage data engineering skills to curate, clean, and preprocess large-scale datasets for generative AI applications.
+
+Generative AI

@@ -1,0 +1,58 @@
+Key Responsibilities:
+Architect will define and document the data model, data policies, rules, and standards to govern which data is collected, how it is stored, accessed, enriched, integrated, and consumed within the solution.
+and implement a scalable, high performance data models and data schema to support data integration, storage and retrieval. Output and maintain ERD covering all BSS components.
+existing data documentation for gaps. Define Data Security, Data Retention, Back-up & restoration policies aligning to client guidelines
+build and maintain the database platform to provide stable and secure services.
+and designing plans for database systems based on various factors such as capacity planning/lifecycle management.
+with other team members and stakeholders.
+be able to install, deploy, parameters configuration of Databases on any of the platforms Linux/windows/k8s
+performance turning, capacity planning and optimisation of database systems to ensure optimal data processing and retrieval
+Technical skill you should have:
+Hands on experience is designing customer data model with account hierarchy for E-Commerce, Care, CRM or Billing solution
+Very good knowledge in database technology for bothNoSQL DB and SQL DB. Working experience with in-memory DB such as Couchbase would be an advantage. 
+Good knowledge in designing, building, and operating in-production Big Data, stream processing, and/or enterprise data integration solutions using Apache Kafka
+Establish scalable implementation of data management framework, platform and tools stack
+Good knowledge to develop, implement and managing BAU operational process for data quality functionality and capability such as Data Quality Statistics, Data Quality Scorecards, Data Quality Analysis and Workflows Design
+Experience utilising Visualisation tools such as Tableau, Power BI or any similar tool
+Experience in replication tools like Couchbase XDCR, Mirroring, Log Shipping, MSSQL
+Experience in Clustering, always on, PG Physical and Logical replication
+Scripting: PowerShell, Python
+Proficient in Document-oriented DB ex. Couchbase DB/MongoDB is a must.
+Proficient in any of the following database systems would be an advantage:
+RDBMS ex. MYSQL, PostgreSQL, Oracle
+NOSQL DB ex. Elasticsearch
+Desirable Skills
+of DevOps practices – Kubernetes, Docker, etc.
+measurement and monitoring tools like – JMeter, Grafana
+experienced in traditional waterfall methodology and or Agile/
+Delivery
+shell scripting
+of deployment on Linux, Mac OS operating systems
+version source control systems such as Git or SVN
+of presenting solutions to clients
+& External Stakeholder management
+Data Engineer
+1.	Idexcel Data Engineer
+Experience: 3 to 10 years
+Job Description
+Candidate will join our Advance Analytics project.
+Will be working on Multiple Data Integration projects.
+Will be working on creating Data Lake in open table format.
+Will involve in creating Realtime advance reporting platform and its Datawarehouse.
+Will be involved in building Data pipeline, Lambdas, Data Solution Architecting,
+Deployment of code, Automation, Code review.
+Should be self-motivated person to led technical upgradation, schema redesigning.
+Keep himself updated on Data engineering developments both opensource and AWS.
+Required Skills
+BE or BTech with good Communication and presentation skill.
+AWS full DE stack
+Experience in building Realtime Data analytic solution on AWS is must.
+Experience in core Banking Industry is a Plus, 
+Experience in developing Analytical solutions for Finance function.
+Knowledge of Big Data Solutions such as Hadoop, NoSQL, MapReduce etc
+Good Knowledge of agile Development like Scrum and Sprint planning. CI/CD
+Working Knowledge of API consumption.
+Data Integration with external tools like Salesforce, SAP, Codata is a plus.
+Candidates with AWS Certification will be preferred.
+Tools
+Aurora Postgres DB, SQL, Spark, Kafka, Python, Redshift, Snowflake, Airflow, Glue (ETL, Catalog, Crawler), Lambda, SQS, SNS, Data Lake, Cloud watch, Cloud Trail, DBT, AWS SDK, Boto3, Kinesis, kinesis Firehose, Everbridge, Code pipeline. MongoDB, Lake formation, Cloud Formation, Git Branching, code reviews

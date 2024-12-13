@@ -1,0 +1,23 @@
+Position Overview:
+
+Seeking a passionate, data-savvy Analyst to join the Technology Strategy Optimization team to support us drive forward our data driven transformation agenda. This dynamic role uses a consultative approach with the business segments to dive into our customer, product, channel, and digital data to uncover opportunities for consumer experience & servicing optimization. The ideal candidate will have a passion for working with data, extracting insights, and driving data-informed decision-making processes within the organization.
+
+What You’ll do on a Typical Day :-
+Data Collection and Analysis: Collect, clean, and analyze large datasets to identify trends, patterns, and correlations. Apply statistical methods and data visualization techniques to present findings effectively. 
+Report Generation: Generate regular and ad-hoc reports for various stakeholders to provide insights into key performance indicators, business metrics, and operational efficiency. 
+Data Quality Assurance: Ensure the accuracy, completeness, and reliability of data by implementing data validation processes and conducting quality assurance checks. 
+Business/Process Intelligence: Applies query, data exploration and transformation, basic statistical techniques, and visualization techniques to create business insights. Synthesize data into actionable insights about customer behaviour, and servicing performance. Clearly communicate these recommendations to internal team members and senior leadership. 
+Data-driven Decision Making: Collaborate with multi-functional teams to provide data-driven recommendations and insights to support critical initiatives, product development, and process improvements.
+Data Visualization: Build interactive dashboards and data visualizations using tools such as Tableau, Power BI, or Excel to communicate complex data insights in a clear and actionable manner. Create compelling, intuitive, self-service dashboards to internal business partners to understand, have access to, and derive insights from data, metrics, and KPIs (key performance indicators) 
+Continuous Learning and Improvement: Stay up to date with industry trends, new technologies, and standard processes in data analysis and data science. Share knowledge and insights with team members to foster a culture of continuous learning and improvement. 
+Actively participate in multi-functional initiatives, collaborating with team members to measure project success. Provide opportunity analysis, measurement plans, dashboards, and post-release analyses. 
+What We’re looking for :-
+Bachelor's degree in engineering/ IT/ Data Sciences or related fields
+8-10 years of data analyst experience, with a 2+ years of data visualization experience
+Good background in data visualization including creation of dashboards and data models
+An analytical mind and inclination for problem-solving with shown attention to detail combined with big-picture thinking
+Ability to present and tailor details and information to various levels of an organization
+Technical Skills: Must have at least one data visualization skill Tableau/Power BI. Proficiency with MS PowerPoint and Excel. Writing simple/complex SQL queries for data analysis
+Completes work independently with general mentorship on new projects/requirements
+Work well with peers, and superiors in all departments across the organization.
+Need to have a robust mix of technical and communication skills, with a passion for optimization, data storytelling, and data visualization. 

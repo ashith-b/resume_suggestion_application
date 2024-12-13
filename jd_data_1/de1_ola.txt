@@ -1,0 +1,33 @@
+Data at Ola:
+Quality data is fundamental to Ola’s success. As a rapidly growing company, we are preparing for a future of tremendous growth and transformation. We are rebuilding our Data Engineering practice to enable the ola group companies success by building a solid data foundation. We are seeking stunning Principal Data Engineers to help us define and realize our vision for reliable and quality data across the company. This is a unique opportunity to shape Data Engineering for a strong, but high potential, company at high scale in its lifecycle.
+Data Engineering at Ola:
+We need to ensure every area of the business has trustworthy data to fuel insight and innovation. Understanding the business need, securing the right data sources, designing usable data models, and building robust & dependable data pipelines are essential skills to meet this goal.
+At the same time, the technology used to create great data is continually evolving. We are moving to a reality where both batch & stream processing are leveraged to meet the latency requirements for the business. The Data Engineering paved path is still taking shape, and we want to collaboratively develop this to support the entire company. We need senior engineers who are passionate not only about the data, but also about improving the technology we leverage for Data Engineering.
+We are looking for Data Pipeline Engineers to help us build and enhance big data platforms to achieve availability, scalability and operational effectiveness. The right individual will embrace the opportunity to tackle challenging problems and use their influence to drive continual improvement. You will also work on the cutting edge of technology, leveraging Hadoop, Hbase, Hive, Kafka, Spark, Flink, Mesos/Kubernetes, Hudi/Deltalake , Prometheus, Grafana etc.
+Roles and Responsibilities:
+Develop and automate large scale, high-performance data processing systems (batch and/or streaming) to drive Ola group business growth and improve the product experience.
+Evangelize high quality software engineering practices towards building data infrastructure and pipelines at scale. 
+Lead data engineering projects to ensure pipelines are reliable, efficient, testable, & maintainable
+Design our data models for optimal storage and retrieval and to meet critical product and business requirements.
+Understand and influence logging to support our data flow, architecting logging best practices where needed
+Contribute to shared Data Engineering tooling & standards to improve the productivity and quality of output for Data Engineers across the company
+Partner with leadership, engineers, program managers and data scientists to understand data needs.
+Educate your partners: Use your data and analytics experience to ‘see what’s missing’, identifying and addressing gaps in their existing logging and processes.
+Work with stakeholders to build data lineage, data governance and data cataloging.
+Leading projects using agile methodologies.
+Communicate effectively with people of all levels in the organization.
+Recruit, retain and develop people skills to take bigger responsibilities and challenges.
+Experience & Skills:
+Experience in custom ETL design, implementation and maintenance.
+Experience with workflow management engines like Airflow, Dagster etc.
+Working knowledge of relational databases and query authoring (SQL).
+Experience with Java / Scala / Spark is preferred
+Working experience with data at the petabyte scale.
+Experience designing, building and operating robust distributed systems.
+Experience designing and deploying high performance systems with reliable monitoring and logging practices.
+Effectively work across team boundaries to establish overarching data architecture, and provide guidance to individual teams.
+Expertise of Amazon Web Services (AWS) and/or other relevant Cloud Infrastructure solutions like Microsoft Azure or Google Cloud.
+Experience in managing and deploying containerized environments using Docker, Mesos/Kubernetes is a plus.
+Experience in managing projects using scrum methodology.
+TechStack : CloudEra Stack, Oozie, Hive, spark, Flink, Spark, K8s, EMR, Presto, Pinot, Trino, IceBerg, FileFormat: parquet, Avro ORC format, DeltaLake, Parquet, Airflow, Druid, Nifi, Hive/HiveQL, Clickhouse, Debezium (CDC) / DBT, Lakehouse, Spark Structured/Streaming, Flink, Apache Beam, Kafka, Hadoop/HbAse/HDFS, Hudi, File Formats (ORC, Parquet, Iceberg), Query engines (Presto, Hue, Trino), Trino or Presto, Stream Processing: Hudi vs iceberg vs delta-lake, Druid vs apache pinot vs trino, Apache Nifi, Apache Flume,Fabric and Secor, Maxwell, K8S, LakeHouse,
+Educational Qualifications: Bachelor’s or Master’s degree in Engineering or related technical discipline (from premier institutes preferred)

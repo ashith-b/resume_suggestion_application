@@ -1,0 +1,23 @@
+Experience: 3 to 10 years
+Job Description
+Candidate will join our Advance Analytics project.
+Will be working on Multiple Data Integration projects.
+Will be working on creating Data Lake in open table format.
+Will involve in creating Realtime advance reporting platform and its Datawarehouse.
+Will be involved in building Data pipeline, Lambdas, Data Solution Architecting,
+Deployment of code, Automation, Code review.
+Should be self-motivated person to led technical upgradation, schema redesigning.
+Keep himself updated on Data engineering developments both opensource and AWS.
+Required Skills
+BE or BTech with good Communication and presentation skill.
+AWS full DE stack
+Experience in building Realtime Data analytic solution on AWS is must.
+Experience in core Banking Industry is a Plus, 
+Experience in developing Analytical solutions for Finance function.
+Knowledge of Big Data Solutions such as Hadoop, NoSQL, MapReduce etc
+Good Knowledge of agile Development like Scrum and Sprint planning. CI/CD
+Working Knowledge of API consumption.
+Data Integration with external tools like Salesforce, SAP, Codata is a plus.
+Candidates with AWS Certification will be preferred.
+Tools
+Aurora Postgres DB, SQL, Spark, Kafka, Python, Redshift, Snowflake, Airflow, Glue (ETL, Catalog, Crawler), Lambda, SQS, SNS, Data Lake, Cloud watch, Cloud Trail, DBT, AWS SDK, Boto3, Kinesis, kinesis Firehose, Everbridge, Code pipeline. MongoDB, Lake formation, Cloud Formation, Git Branching, code reviews

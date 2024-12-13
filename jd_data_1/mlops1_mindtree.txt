@@ -1,0 +1,22 @@
+Design the data pipelines and engineering infrastructure to support our clients’ enterprise machine learning systems at scale
+Take offline models data scientists build and turn them into a real machine learning production system
+Develop and deploy scalable tools and services for our clients to handle machine learning training and inference
+Identify and evaluate new technologies to improve performance, maintainability, and reliability of our clients’ machine learning systems
+Apply software engineering rigor and best practices to machine learning, including CI/CD, automation, etc.
+Support model development, with an emphasis on auditability, versioning, and data security
+Facilitate the development and deployment of proof-of-concept machine learning systems
+Communicate with clients to build requirements and track progress
+Qualifications
+Experience building end-to-end systems as a Platform Engineer, ML DevOps Engineer, or Data Engineer (or equivalent)
+Strong software engineering skills in complex, multi-language systems
+Fluency in Python
+Comfort with Linux administration
+Experience working with cloud computing and database systems
+Experience building custom integrations between cloud-based systems using APIs
+Experience developing and maintaining ML systems built with open source tools
+Experience developing with containers and Kubernetes in cloud computing environments
+Familiarity with one or more data-oriented workflow orchestration frameworks (KubeFlow, Airflow, Argo, etc.)
+Ability to translate business needs to technical requirements
+Strong understanding of software testing, benchmarking, and continuous integration
+Exposure to machine learning methodology and best practices
+Total Experience- 3 to 5 Years.

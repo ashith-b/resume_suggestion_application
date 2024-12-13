@@ -1,0 +1,30 @@
+Description
+
+Amazon Web Services (AWS) provides a highly reliable, scalable, and low-cost cloud platform that powers thousands of businesses in over 190 countries. AWS’ Infrastructure Services Supply Chain (AIS-SC) organization works to deliver cutting-edge solutions to source, build and maintain our socially responsible data center supply chains. We are a team of highly-motivated, engaged, and responsive professionals who enable the core sustainable infrastructure of AWS. Come join our team and be a part of history as we deliver results for the largest cloud services company on Earth!
+
+Do you love problem solving? Are you looking for real world Supply Chain challenges? Do you have a desire to make a major contribution to the future, in the rapid growth environment of Cloud Computing?
+
+Amazon Web Services is looking for a highly motivated, Data Scientist to help build scalable, predictive and prescriptive business analytics solutions that supports AWS Supply Chain organization. You will be part of the Supply Chain Analytics team working with Global Stakeholders, Data Engineers, Business Intelligence Engineers and Business Analysts to achieve our goals.
+
+We are seeking an innovative and technically strong data scientist with a background in optimization, machine learning, and statistical modeling/analysis. This role requires a team member to have strong quantitative modeling skills and the ability to apply optimization/statistical/machine learning methods to complex decision-making problems, with data coming from various data sources. The candidate should have strong communication skills, be able to work closely with stakeholders and translate data-driven findings into actionable insights. The successful candidate will be a self-starter, comfortable with ambiguity, with strong attention to detail and ability to work in a fast-paced and ever-changing environment.
+
+Responsibilities
+Demonstrate thorough technical knowledge on feature engineering of massive datasets, effective exploratory data analysis, and model building using industry standard time Series Forecasting techniques like ARIMA, ARIMAX, Holt Winter and formulate ensemble model.
+Proficiency in both Supervised(Linear/Logistic Regression) and UnSupervised algorithms(k means clustering, Principle Component Analysis, Market Basket analysis).
+Experience in solving optimization problems like inventory and network optimization. Should have hands on experience in Linear Programming.
+Understand the business reality behind large sets of data and develop meaningful solutions comprising of analytics as well as marketing management.
+Work closely with internal stakeholders like the business teams, engineering teams and partner teams and align them with respect to your focus area
+Innovate by adapting new modeling techniques and procedures
+Passionate about working with huge data sets and be someone who loves to bring datasets together to answer business questions. You should have deep expertise in creation and management of datasets
+ Exposure at implementing and operating stable, scalable data flow solutions from production systems into end-user facing applications/reports. These solutions will be fault tolerant, self-healing and adaptive.
+ Detail-oriented and must have an aptitude for solving unstructured problems. You should work in a self-directed environment, own tasks and drive them to completion.
+ Excellent business and communication skills to be able to work with business owners to develop and define key business questions and to build data sets that answer those questions
+ Work with distributed machine learning and statistical algorithms to harness enormous volumes of data at scale to serve our customers
+Basic Qualifications
+ 5+ years of data scientist experience
+ 4+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+ 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience
+ Experience applying theoretical models in an applied environment
+Preferred Qualifications
+ Experience in Python, Perl, or another scripting language
+ Experience in a ML or data scientist role with a large technology company

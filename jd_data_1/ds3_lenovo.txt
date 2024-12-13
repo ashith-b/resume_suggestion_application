@@ -1,0 +1,27 @@
+Job Description: Data Scientist (User Experience Enhancement)
+
+Are you passionate about leveraging data to create seamless and intuitive user experiences on smartphones? We're seeking a Senior Data Scientist to lead the charge in harnessing data-driven insights to enhance user interactions and provide personalized assistance. In this role, you'll be at the forefront of utilizing contextual data and advanced machine learning techniques to deliver tailored responses and actions, making smartphone interactions more intuitive and efficient. If you're excited about the intersection of data science and user experience optimization, we want you on our team!
+
+Responsibilities:
+
+Data-Driven Insights: Utilize data analytics and machine learning techniques to derive actionable insights from user interactions, contextual data, and feedback, driving continuous improvements in user experience.
+
+Contextual Understanding: Develop algorithms and models to interpret contextual data, such as location, time, and user activity, enabling smartphones to provide relevant and timely assistance based on the user's current situation.
+
+Prompting Enhancement: Enhance prompting mechanisms and intelligent notifications using data-driven approaches, ensuring that smartphones proactively assist users with relevant suggestions, reminders, and actions.
+
+Personalized Reasoning: Build and refine large-scale datasets for training and improving language understanding models, enabling smartphones to deliver personalized responses and actions tailored to individual user preferences and behavior.
+
+LLM Model Training: Collaborate with machine learning engineers to train and optimize language understanding models (LLMs) using curated datasets, fine-tuning model parameters to enhance accuracy and relevance of responses.
+
+Continuous Improvement: Establish feedback loops and mechanisms for monitoring user interactions and collecting feedback, iteratively refining data models and algorithms to adapt to evolving user needs and preferences.
+
+Data Governance: Ensure data quality, privacy, and compliance with relevant regulations and standards, implementing robust data governance practices to safeguard user information and maintain trust.
+
+Qualifications:
+B.E/M. Tech degree in Data Science, Computer Science, or a related field.
+Minimum 5 years of experience in data analysis, machine learning, and user experience optimization, preferably in the mobile technology industry.
+Proficiency in data mining, statistical analysis, and machine learning techniques, with hands-on experience in Python, R, or similar programming languages.
+Strong understanding of natural language processing (NLP) and language understanding models, with experience in training and deploying machine learning models for text analysis and interpretation.
+Excellent problem-solving and analytical skills, with the ability to derive actionable insights from complex datasets and translate them into practical solutions for improving user experiences.
+Effective communication and collaboration skills, with the ability to work closely with cross-functional teams to implement data-driven solutions and drive continuous improvement in user interactions.

@@ -1,0 +1,30 @@
+What do we do? 
+
+We are the Simulation and Analytics Team within Volvo Group Trucks Technology, a dynamic team working towards enabling the Technology organization in evaluating futuristic products and services for Volvo business units such as trucks, buses, construction equipment and Marine
+
+The main tasks in our team are to meet our customer’s expectation on quality, fuel consumption and to comply with emission legislation. This is done by selecting Engine HW-components and calibrate engine related functions. Upcoming emission legislation requires development of advanced control strategies together with an optimized hardware and software. You will be an important contributor in this development. Powertrain is the heart of the Truck and is one of the focus areas within Volvo Group, which is at the forefront of sustainable transport solutions for tomorrow.
+
+What will you do? 
+You will work in agile teams through good collaboration with our colleagues in software development and design teams all around the world.
+
+You along with the team will be responsible for understanding customer usage and performance of our products and for providing our solutions throughout entire product life cycle, from idea investigation and concept evaluation to industrialization and to aftermarket and maintenance. You will make meaningful interpretations, recommendations and eventually predictions from the Data available from various sources to support our endeavor in moving towards Data Driven Powertrain Development
+
+You get the opportunity to follow your Data Driven Models from script to test cell to verification in a truck and eventually to being used by our end customers.
+
+We have an agile way of working, where each team plan their activities in sprints and deliver solutions together as a team. We strive to have an open and honest environment within the teams, where it is easy to ask each other for support when needed. The tasks can be either part of a larger project or short tasks to improve products currently in production.
+
+You will get the opportunity to interact with highly committed colleagues from different cultures. We hope you will learn as much from us as we will from you.
+
+ Who are you? 
+
+We believe that to be successful in this position, you are a team player, have strong experience in data engineering and analysis area, and a will to deliver. You have a knowledge of control systems and feedback systems (closed loop) in general with an exposure to numerical and data driven simulation of a system. You must have a proven experience in Data modelling – Regression, Clustering, Neural Networks, Time series etc. and should have used them in solving real-life challenges (prediction, automation, real time optimization etc).
+
+You have a willingness to learn and take more responsibility with can-do attitude.
+
+You will be greatly appreciated in this role if you have demonstrated Predictive analysis and decision-making using Data.
+
+If you are a Master’s Degree holder in Mechanical/Automobile/Electronics/Mechatronics Engineering with fantastic analytical skills, have gained a strong domain understanding in Powertrain Engineering with proven skills in handling and analysing large set of data to make meaningful interpretations and if you believe that you can work smoothly with Python ( including libraries like Numpy, SciPy, Pandas, Tensorflow) , R, SQL, Git, Azure, Hadoop and Matlab/Simulink, pySpark, C/C++/ Scala then you can be a good fit into this role.
+
+Experience of working with relational databases, data privacy and understanding of IOT based instrumentation design with additional data logging to build or validate models is a big plus.
+
+A passion for turning data into knowledge with great visualizations using Power BI, QlikView, Tableau and an experience of working with plant/ component models, and integration of these models into SIL/MIL/HIL evaluations would be an icing on the cake.

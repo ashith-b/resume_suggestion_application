@@ -1,0 +1,20 @@
+Description
+
+Amazon Prime team is building an evergreen platform that will provide real time insights of traffic, sales, deals, prime engagement and is looking for rock start data engineer to build this. At Amazon Prime, understanding customer data is paramount to our success in providing customers with relevant and enticing benefits such as fast free shipping, instant videos, streaming music and free Kindle books in the US and international markets. At Amazon you will be working in one of the world's largest and most complex data environments.
+
+You will be part of team that will work with the marketing, retail, finance, analytics, machine learning and technology teams to provide real time data processing solution that give Amazon leadership, marketers, PMs timely, flexible and structured access to customer insights. The team will be responsible for building this platform end to end using latest AWS technologies and software development principles.
+
+As a Data Engineer, you will be responsible for leading the architecture, design and development of the data, metrics and reporting platform for Prime. You will architect and implement new and automated Business Intelligence solutions, including big data and new analytical capabilities that support our Development Engineers, Analysts and Retail business stakeholders with timely, actionable data, metrics and reports while satisfying scalability, reliability, accuracy, performance and budget goals and driving automation and operational efficiencies. You will partner with business leaders to drive strategy and prioritize projects and feature sets. You will also write and review business cases and drive the development process from design to release. In addition, you will provide technical leadership and mentoring for a team of highly capable Data Engineers.
+
+Responsibilities
+ Own design and execution of end to end projects
+ Own managing WW Prime core services data infrastructure
+ Establish key relationships which span Amazon business units and Business Intelligence teams
+ Implement standardized, automated operational and quality control processes to deliver accurate and timely data and reporting to meet or exceed SLAs
+Basic Qualifications
+ 3+ years of data engineering experience
+ Experience with data modeling, warehousing and building ETL pipelines
+ Experience with SQL
+Preferred Qualifications
+ Experience with AWS technologies like Redshift, S3, AWS Glue, EMR, Kinesis, FireHose, Lambda, and IAM roles and permissions
+ Experience with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)

@@ -1,0 +1,24 @@
+What Role You Will Play In Our Team
+We are looking to hire candidates to work on challenging technology and engineering problems that span oil and gas exploration & production, chemicals/fuels/lubricants products and low carbon solutions. A successful candidate would understand a business problem (both commercially and technically), translate it into a computational, data science or machine learning problem and apply engineering, numerical, data science and programming skills to tackle it. The Machine Learning Engineer will work as part of a team to design, develop, deploy and sustain data science solutions that are scalable, reproducible and with commercial-grade quality.
+
+What You Will Do
+Applies software development practices, DevOps skills and Machine Learning (ML) techniques to orchestrate an end-to-end machine learning workflow that effectively brings ML models to production. 
+Participates in scoping of deployment of new data science solutions and implements the appropriate solution design. 
+Sustain data science solutions by enabling continuous ML model and/or service performance monitoring, training, and re-training of models, including the implementation of proactive alerting methods. 
+Works effectively with computational scientists, data scientists, engineers, software developers, and domain experts across the globe to develop and apply computational and data science solutions in support of our business. 
+About You
+Skills and Qualifications
+Bachelor’s degree from a recognized university in Computer Science, IT, Applied Mathematics, Engineering or related disciplines with minimum 7.0 CGPA or equivalent. 
+Minimum 3 years of experience in Data Science and Machine Learning or related computational domain. 
+Competent to expert level programming experience in C/C++/Python. 
+Strong foundation in application design. 
+Experience with refactoring legacy code and leveraging third-party libraries/APIs during software development. 
+Experience with Source code version control (Git), Azure Cloud platform and containers, Databricks and MLflow. 
+Continuous Integration and Continuous Deployment. 
+Familiarity with statistical analysis, regression and classification. 
+Preferred Qualifications / Experience
+Experience with time series analysis, computer vision, natural language processing. 
+Knowledge or hands on experience on Matlab & SQL. 
+Strong written and verbal communication skills. 
+Prior knowledge of commercial software development and/or experience in commercial software teams. 
+Familiarity with Oil and Gas Industry. 
